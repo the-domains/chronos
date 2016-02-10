@@ -1,0 +1,28 @@
+name: Chronos
+favicon: null
+layout_spectrum: 0.1153198208194226
+typography_spectrum: 0.19621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6567835144232959
+  lightness: 0.2280468549579382
+  saturation: 0.20560159464366734
+  rhythmicContrast: 0.9361818069592118
+purpose: []
