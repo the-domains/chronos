@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chronos]]></title>
         <description><![CDATA[Chronos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chronos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 05:23:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 05:24:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chronos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xtf1/t31.0-8/12694809_10153320125071806_5102023368422418244_o.jpg">]]></description>
-            <link>undefined2b8910bd-4908-45d9-bb0f-0ed5fa3d4554/index.html</link>
+            <link>https://www.facebook.com/photo.php?fbid=10153320125071806&amp;set=a.60628531805.82131.500911805&amp;type=3&amp;theater</link>
+            <guid isPermaLink="false">32647214-0cc2-40b1-8492-233df02f6aef</guid>
+            <pubDate>Wed, 10 Feb 2016 05:11:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xtf1/t31.0-8/12694809_10153320125071806_5102023368422418244_o.jpg">]]></description>
+            <link>https://thegrid.ai/chronos/2b8910bd-4908-45d9-bb0f-0ed5fa3d4554/index.html</link>
             <guid isPermaLink="false">2b8910bd-4908-45d9-bb0f-0ed5fa3d4554</guid>
             <pubDate>Wed, 10 Feb 2016 05:07:12 GMT</pubDate>
         </item>
